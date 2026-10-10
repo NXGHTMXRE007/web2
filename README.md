@@ -15,13 +15,13 @@ https://github.com/NXGHTMXRE007/web1
 ![var](screenshots/var.png)
 
 Создана модель:  
-![0](screenshots/0.png)
+![0](screenshots/0.png)  
 Выполнил команду для создания миграций и применил миграции к базе данных:  
-![1](screenshots/1.png)
+![1](screenshots/1.png)  
 Подключение базы данных к SQLiteStudio:  
-![2](screenshots/2.png)
+![2](screenshots/2.png)  
 Запустил консоль Django в терминале:  
-![3](screenshots/3.png)  
+![3](screenshots/3.png)   
 Импортировал созданную модель:  
 ![4](screenshots/4.png)  
 Добавил несколько курсов валют:  
